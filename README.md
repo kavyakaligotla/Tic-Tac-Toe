@@ -2,12 +2,14 @@
 
 This is a simple implementation of the classic **Tic Tac Toe** game using JavaScript. Challenge a friend and see who can win the ultimate battle of Xs and Os!
 
+Ready to Play? Click [here](https://kavyakaligotla.github.io/Tic-Tac-Toe/) to start playing...
+
 ## Game Features
 - **Two Players**: Play as Player X or Player O.
 - **Dynamic Gameplay**: Updates the board in real-time.
 - **Win Detection**: Automatically checks for a winner or a draw.
 
-## How to Run
+## How to Run on Your Local Computer
 1. Download or clone this repository.
 2. Open the `index.html` file in your web browser.
 3. Enjoy the game!
